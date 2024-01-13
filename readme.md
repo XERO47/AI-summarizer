@@ -29,7 +29,7 @@ Employing the latest design techniques, our application prioritizes an optimal u
 To use the Rapid API integration,get your key from here(https://rapidapi.com/renatozust/api/ai-summarizer). you need to set up an environment variable. Create a `.env` file in the root directory and add the following:
 
 ```env
-VITE_RAPID_API_ARTICLE_KEY=YOUR_RAPID_API_KEY="YOUR_KEY"
+VITE_RAPID_API_ARTICLE_KEY="YOUR_KEY"
 ```
 
 ## Deployment
