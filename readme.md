@@ -2,7 +2,7 @@
 
 Welcome to the AI Article Summarizer repository, where cutting-edge technologies converge to revolutionize content summarization. This project, developed using the **Vite** framework, harnesses the power of **Rapid API** for seamless integration with diverse data sources, allowing users to generate concise and insightful summaries from online articles through a simple link.
 
-### Deployed link ()
+### Deployed link: https://ai-summarizer-khaki.vercel.app/
 
 ## Technologies Utilized:
 
@@ -33,5 +33,4 @@ VITE_RAPID_API_ARTICLE_KEY="YOUR_KEY"
 ```
 
 ## Deployment
-
-link
+### https://ai-summarizer-khaki.vercel.app/
