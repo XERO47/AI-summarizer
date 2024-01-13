@@ -36,4 +36,4 @@ VITE_RAPID_API_ARTICLE_KEY="YOUR_KEY"
 ### https://ai-summarizer-khaki.vercel.app/
 
 
-** Note: Description is AI generated.
+** Note **: Description is AI generated.
