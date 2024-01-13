@@ -34,3 +34,6 @@ VITE_RAPID_API_ARTICLE_KEY="YOUR_KEY"
 
 ## Deployment
 ### https://ai-summarizer-khaki.vercel.app/
+
+
+** Note: Description is AI generated.
